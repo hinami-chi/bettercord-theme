@@ -1,3 +1,3 @@
-# bettercord-theme
+# betterdiscord-theme
 
-It's just a bettercord theme
+It's just a betterdiscord theme
