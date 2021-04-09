@@ -9,7 +9,6 @@
 :root {
     --color-high: rgb(0, 0, 0);
     --color-lowest: rgb(255, 255, 255);
-    --color-mid: rgb(122, 153, 145);
     --color-alert: rgb(30, 0, 37);
     --color-alert-hover: rgba(236, 0, 79, 0.384);
     --color-high-trans: rgba(0, 0, 0, 0.8);
