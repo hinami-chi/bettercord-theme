@@ -15,7 +15,6 @@
     --color-high-trans: rgba(0, 0, 0, 0.8);
     --color-low-trans: rgba(184, 217, 209, 0.6);
     --color-alert-trans: rgba(229, 0, 77, 0.7);
-    --font: BlenderProBold;
     
   --background-primary: var(--color-high);
   --background-secondary: var(--color-high);
